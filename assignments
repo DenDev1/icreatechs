@@ -1,1 +1,45 @@
+1. Main Components of a Computer System
+A computer system consists of four primary components:
+
+CPU (Central Processing Unit): The "brain" that executes instructions.
+
+Memory (RAM): Temporary storage for active programs and data.
+
+Storage (HDD/SSD): Long-term storage for files and software.
+
+Motherboard: The main circuit board connecting all components.
+
+Power Supply Unit (PSU): Provides power to the system.
+
+Input/Output Devices: Peripherals like keyboards, monitors, etc.
+
+2. Difference Between RAM and Storage
+RAM (Random Access Memory)	Storage (HDD/SSD)
+Volatile (loses data when powered off)	Non-volatile (retains data)
+Fast access speeds (nanoseconds)	Slower (milliseconds for HDDs)
+Used for active tasks and running programs	Stores files, OS, and software long-term
+Limited capacity (typically 8GB–64GB)	Larger capacity (500GB–10TB+)
+Expensive per GB	Cheaper per GB
+3. How the CPU Processes Instructions
+The CPU follows the fetch-decode-execute cycle:
+
+Fetch: Retrieves the next instruction from RAM.
+
+Decode: Interprets the instruction (e.g., arithmetic operation).
+
+Execute: Performs the operation using the ALU (Arithmetic Logic Unit).
+
+Store: Writes results back to RAM or registers.
+
+Modern CPUs use pipelining (parallel processing of instructions) and multiple cores for efficiency.
+
+4. Common Computer Peripherals & Functions
+Peripheral	Function
+Keyboard	Input text/commands.
+Mouse	Navigate graphical interfaces.
+Monitor	Displays visual output.
+Printer	Produces physical copies of documents.
+External Hard Drive	Expands storage capacity.
+Speakers/Headphones	Output audio.
+Webcam	Captures video for communication.
 
